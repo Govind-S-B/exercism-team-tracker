@@ -1,3 +1,10 @@
+"""
+Pass exercise_name as command line argument for the script
+usage : py view.py <exercise_name>
+
+eg : py view.py ghost-gobble-arcade-game
+"""
+
 import sys
 import subprocess
 import webbrowser
